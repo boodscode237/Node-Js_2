@@ -1,0 +1,18 @@
+{
+  "name": "boodscode",
+  "version": "1.0.0",
+  "description": "node studying",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boodscode237",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.0",
+    "morgan": "^1.10.0"
+  }
+}
